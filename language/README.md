@@ -6,14 +6,15 @@
 
 ## 1. 環境建置
 * 選適當的課程一步一步建置，值到有能力印出 Hello world
-    * 前端裝好瀏覽器
-    * 後端建議弄個Linux環境
-    * 編譯式語言熟悉編譯器
+    * 前端用瀏覽器
+    * 後端用Linux
+        * SQL在Linux下裝個PostgreSQL環境
 * 選個編輯器，建議vscode
 
 ## 2.選起始教材
-* 找官方網站的Get started內容
-* 把w3shool的線上練習做一次
+* 看官方網站的Get started內容
+* 找線上學習網站
+  * 把w3shool的線上練習做一次
 * 找一個`程式語言 by example`的教學練習
 
 ## 3. 做專案練習
@@ -26,7 +27,8 @@
 * 刷簡單的程式題目
 * linked list實作
 
-
+## 4. 刷Leetcode
+* blind 75
 
 ## ref
 * [如何自學新的程式語言，以 Golang 為例 - 彭彭直播 at 2019/07/08](https://www.youtube.com/watch?v=jZhcpzhjix8)
